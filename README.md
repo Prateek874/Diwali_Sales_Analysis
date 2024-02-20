@@ -1,1 +1,1 @@
-# Diwali_Sales_Analysis using python
+# Diwali_Sales_Insights using python
